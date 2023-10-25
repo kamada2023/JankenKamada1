@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">じゃんけんゲーム Ver1.0</string>
+    <string name="title_call">じゃんけんゲーム</string>
+    <string name="title">じゃーんけーん....</string>
+    <string name="subtitle">画像をタップしてね</string>
+    <string name="user">あなた</string>
+    <string name="cpu">相手</string>
+</resources>
